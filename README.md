@@ -20,3 +20,7 @@
 [ㅍ]
 
 ![image](https://github.com/user-attachments/assets/2996529a-f25e-4b9e-a6ea-ebaa8e3676ae)
+
+'''cpp
+#include <stdio.h>
+'''
